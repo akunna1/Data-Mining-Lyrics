@@ -1,4 +1,4 @@
-# Song Lyrics Data Mining and Visualization 🎵
+# Song Lyrics Data Mining and Visualization 🎵📊
 
 This project mines and analyzes song lyrics from some of the most played songs on Spotify to visualize their word content. It cleans the lyrics, removes common stop words and auxiliary verbs, calculates word frequencies, and visualizes the top words using pie charts.
 
